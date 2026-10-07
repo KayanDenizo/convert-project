@@ -2,6 +2,9 @@
 
 Conversor de moedas que transforma valores em dólar, euro ou libra em reais. As cotações ficam fixas no código.
 
+<p align="center"><img src=".github/preview.png" alt="Página do convert-project" width="800"></p>
+
+
 🔗 **[Ver online](https://kayandenizo.github.io/convert-project/)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
